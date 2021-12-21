@@ -16,3 +16,4 @@ JOIN (
 ) AS d
 ON d.id = e.departmentId
 WHERE e.salary >= d.highest_salary
+;

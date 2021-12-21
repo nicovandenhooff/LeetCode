@@ -8,3 +8,4 @@ WHERE salary NOT IN (
     SELECT MAX(salary)
     FROM Employee
 )
+;
