@@ -3,8 +3,8 @@
 -- https://leetcode.com/problems/customers-who-never-order/
 
 SELECT c.name as Customers
-FROM Orders o
-RIGHT OUTER JOIN Customers c
+FROM orders o
+RIGHT OUTER JOIN customers c
 ON c.id = o.customerId
 WHERE o.id is NULL
 ;

@@ -3,9 +3,9 @@
 -- https://leetcode.com/problems/second-highest-salary/
 
 SELECT MAX(salary) as SecondHighestSalary
-FROM Employee
+FROM employee
 WHERE salary NOT IN (
     SELECT MAX(salary)
-    FROM Employee
+    FROM employee
 )
 ;

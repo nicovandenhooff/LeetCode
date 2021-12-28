@@ -6,11 +6,11 @@ SELECT
     d.name AS Department,
     e.name AS Employee,
     e.salary AS Salary
-FROM Employee e
+FROM employee e
 JOIN (
     SELECT d.id, d.name, MAX(e.salary) AS highest_salary
-    FROM Department d
-    JOIN Employee e
+    FROM department d
+    JOIN employee e
     ON d.id = e.departmentId
     GROUP BY d.name
 ) AS d
