@@ -1,5 +1,6 @@
 -- 197. Rising Temperature
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/rising-temperature/
 
 SELECT w1.id as "Id"

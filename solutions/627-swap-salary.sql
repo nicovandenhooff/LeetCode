@@ -1,5 +1,6 @@
 -- 627. Swap Salary
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/swap-salary/
 
 UPDATE Salary

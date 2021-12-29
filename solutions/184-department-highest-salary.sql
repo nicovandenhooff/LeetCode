@@ -1,5 +1,6 @@
 -- Problem 184. Department Highest Salary
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/department-highest-salary/
 
 SELECT 

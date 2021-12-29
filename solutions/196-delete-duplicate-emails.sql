@@ -1,5 +1,6 @@
 -- 196. Delete Duplicate Emails
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/delete-duplicate-emails/
 
 DELETE p1

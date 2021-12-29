@@ -1,5 +1,6 @@
 -- 185. Department Top Three Salaries
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/department-top-three-salaries/
 
 -- contains salaries with ranks

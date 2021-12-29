@@ -1,5 +1,6 @@
 -- 620. Not Boring Movies
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/not-boring-movies/
 
 SELECT *

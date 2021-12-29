@@ -1,5 +1,6 @@
 -- 626. Exchange Seats
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/exchange-seats/
 
 WITH swaps AS (

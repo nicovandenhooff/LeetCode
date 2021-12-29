@@ -1,5 +1,6 @@
 -- 596. Classes More Than 5 Students
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/classes-more-than-5-students/
 
 SELECT class

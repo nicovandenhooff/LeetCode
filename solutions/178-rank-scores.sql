@@ -1,5 +1,6 @@
 -- Problem 178. Rank Scores
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/rank-scores/
 
 SELECT 

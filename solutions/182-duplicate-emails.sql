@@ -1,5 +1,6 @@
 -- Problem 182. Duplicate Emails
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/duplicate-emails/
 
 SELECT email

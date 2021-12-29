@@ -1,5 +1,6 @@
 -- 595. Big Countries
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/big-countries/
 
 SELECT name, population, area

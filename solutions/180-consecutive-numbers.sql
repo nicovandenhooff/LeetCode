@@ -1,5 +1,6 @@
 -- 180. Consecutive Numbers
 -- Author: Nico Van den Hooff
+-- SQL Engine: MySQL
 -- https://leetcode.com/problems/consecutive-numbers/
 
 SELECT DISTINCT l1.num AS ConsecutiveNums
